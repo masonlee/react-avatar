@@ -32,6 +32,8 @@ node_modules
 
 dist/
 .idea
-lib/
+
+# npm prepare script is failing, so I'm pushing the built library. :/
+#lib/
 
 react-avatar.iml
